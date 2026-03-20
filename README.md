@@ -34,13 +34,8 @@
 
 ###
 
-    import time
+    I've always enjoyed my job. It brings order to chaos and fills me with civic pride. -Dexter Morgan
 
-def dexter_loop():
-    while True:
-        print("Tonight's the night.")
-        time.sleep(1.5) # Pausa por 1.5 segundos
 
-if __name__ == "__main__":
-    dexter_loop()
+
 
