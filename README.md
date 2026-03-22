@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="273" src="https://i.pinimg.com/originals/d8/c6/34/d8c6344b75e852a087fd147cef3f907f.gif"  />
+  <img height="221" src="https://media.giphy.com/media/JIOCxQD3un5cKURBu5/giphy.gif"  />
 </div>
 
 ###
