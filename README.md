@@ -25,6 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
+Sólida formação técnica em informática, focado no desenvolvimento de soluções eficientes e escaláveis. Também tenho um bom conhecimento em programação alíada ao desenvolvimento com IA. Viso ao máximo combinar o rigor da infraestrutura de TI com a agilidade do desenvolvimento de software, possuindo conhecimentos nas linguagens Python e JavaScript. Busco aplicar meus conhecimentos técnicos em ambientes que valorizem a inovação e as boas práticas de engenharia de software. Tenho como meta a evolução contínua em arquiteturas de sistemas e a entrega de produtos que agreguem valor estratégico ao negócio através da tecnologia.
 
 ###
 
@@ -34,7 +35,6 @@
 
 ###
 
-    I've always enjoyed my job. It brings order to chaos and fills me with civic pride. -Dexter Morgan
 
 
 
