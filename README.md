@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img height="221" src="https://www.reddit.com/r/Dexter/comments/czivxn/my_fav_gif/?tl=pt-br"  />
+  <img height="221" src="https://preview.redd.it/8ta1u6efyjk31.gif?width=498&format=mp4&s=cb749fa2d1561ea128b8c0b39f9fbe91878164f2"  />
 </div>
 
 ###
