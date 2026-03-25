@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img height="221" src="https://preview.redd.it/8ta1u6efyjk31.gif?width=498&format=mp4&s=cb749fa2d1561ea128b8c0b39f9fbe91878164f2"  />
+  <img height="221" src="https://i.pinimg.com/originals/b5/64/5f/b5645ff5fe6a9191e89f90ce433aef64.gif"  />
 </div>
 
 ###
