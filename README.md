@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://openbadgepassport.com/file/7/9/0/c/790c7d923104830fccf1ea3ee7443e7e2bcf19706986d2f224c1abd81c1a496a.png" height="50" alt="AWS Academy Graduate badge"  />
+  <img src="https://openbadgepassport.com/file/7/9/0/c/790c7d923104830fccf1ea3ee7443e7e2bcf19706986d2f224c1abd81c1a496a.png" height="45" alt="AWS Academy Graduate badge"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
